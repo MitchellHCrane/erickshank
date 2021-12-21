@@ -16,7 +16,7 @@ function GetStarted() {
           title="Loan Application"
           description="Create your account to apply with
           First Class Home Mortgage."
-          url="https://www.blink.mortgage/app/signup/p/firstclasshomemortgagellc/troywarner"
+          url="https://www.blink.mortgage/app/signup/partner/9COGR7PD/RETR9MCM"
           iconName="applicationIcon"
           btnText="Start Application"
         />
@@ -32,7 +32,7 @@ function GetStarted() {
         <GetStartedItem
           title="Upload Documents"
           description="Safely and securely send documents through DocumentGuardian."
-          url="https://documentguardian.com/filedrop/loans@troywarner.com"
+          url="https://documentguardian.com/filedrop/erick@firstclasshomemortgage.com"
           iconName="uploadDocumentIcon"
           btnText="Upload Documents"
         />
@@ -46,7 +46,8 @@ function GetStarted() {
         <GetStartedItem
           title="Leave a Review"
           description="Thank you for choosing First Class Home Mortgage. It’s our priority to continue providing quality service to our customers. Tell us about your experience."
-          url="https://g.page/r/CStPPIWpW1rHEAg/review"
+          url="https://www.zillow.com/lender-profile/erickshank/?utm_source=email&utm_medium=email&utm_campaign=emo-MortgageReviewPublishedNotifyLender-reply#reviews"
+          // "https://g.page/r/CStPPIWpW1rHEAg/review"
           iconName="reviewIcon"
           btnText="Write Review"
         />
