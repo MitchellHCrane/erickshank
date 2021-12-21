@@ -8,17 +8,19 @@ function Footer() {
         <div className="footerGridItem">
           <h3 className="footerH3">Contact</h3>
           <p className="footerP">
-            Phone: <a href="tel:385-999-1871">(385)-999-1871</a>
+            Phone: <a href="tel:801-347-3330">(801)-347-3330</a>
           </p>
           <p className="footerP">Fax: (801)-303-7083</p>
           <p className="footerP">
             Email:{" "}
-            <a href="mailto:loans@troywarner.com">loans@troywarner.com</a>
+            <a href="mailto:erick@firstclasshomemortgage.com">
+              erick@firstclasshomemortgage.com
+            </a>
           </p>
         </div>
         <div className="footerGridItem">
           <h3 className="footerH3">License Info</h3>
-          <p className="footerP">Troy Warner (NMLS #102983)</p>
+          <p className="footerP">Erick Shank (NMLS #102983)</p>
           <p className="footerP">
             Regulated by the Colorado Division of Real Estate NMLS #1843
           </p>
