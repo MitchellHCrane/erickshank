@@ -20,7 +20,7 @@ function Footer() {
         </div>
         <div className="footerGridItem">
           <h3 className="footerH3">License Info</h3>
-          <p className="footerP">Erick Shank (NMLS #102983)</p>
+          <p className="footerP">Erick Shank (NMLS #915427)</p>
           <p className="footerP">
             Regulated by the Colorado Division of Real Estate NMLS #1843
           </p>
