@@ -21,7 +21,7 @@ function GetStarted() {
           btnText="Start Application"
         />
 
-<GetStartedItem
+        <GetStartedItem
           title="CreditSmart Loan Education"
           description="Be confident about your finances. Our lessons will empower you to make educated decisions throughout the homebuying process."
           url="https://creditsmart.freddiemac.com/paths/homebuyer-u/"
@@ -36,13 +36,13 @@ function GetStarted() {
           iconName="uploadDocumentIcon"
           btnText="Upload Documents"
         />
-        <GetStartedItem
+        {/* <GetStartedItem
           title="Get Free Swag"
           description="Thank you for choosing First Class Home Mortgage to be a part of your home buying experience. Fill out a simple form and get swag!"
           url="https://elevatepromo.com/fchm_thankyou/"
           iconName="peaceHand"
           btnText="Get Swag"
-        />
+        /> */}
         <GetStartedItem
           title="Leave a Review"
           description="Thank you for choosing First Class Home Mortgage. It’s our priority to continue providing quality service to our customers. Tell us about your experience."
